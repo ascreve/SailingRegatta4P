@@ -1,0 +1,25 @@
+Vibe Coding: How an AI Hackathon Sailing Game Turned Into Paying Customers 
+
+I had no business making a video game. But I did have a weekend, too much caffeine, and a deeply held belief that the world still needed a regatta simulator after the tragic death of sailx.com. Shoutout to Chad Lohrli at SDx for building the SD tech community and the invite to the Replit hackathon.
+
+No plan, no business model, just pure vibe coding and an unhealthy knowledge of wind shifts.
+https://goatsail.com/
+
+Last Friday I hosted our first paid tournament: 12 sailors packed into a yacht club classroom, laughing, yelling, and blaming game bugs for their performance.
+
+Highlights included:
+ - One of the sailors, Kevin, went live on Instagram during the tournament
+- The game randomly restarted races several times. I blamed it on the AI deciding to abandon a race. Yes this really happens in sailboat racing.
+- Two of the sailors made GOAT sailing shirts for prizes
+- 3 parents participated and got shown up by the kids
+
+This was never meant to be a startup. I built it because I coach 29ers at SDYC, and sometimes there's no wind. Do I make the kids run laps or do pushups? Or let them sharpen tactics in a chaotic digital throwdown?
+
+A few takeaways if you want your project to hit:
+- Build for a group you already hang out with. If you know them well, building the right thing and getting early users becomes so much easier
+- Surround yourself with people that energize you when building. Hackathon is one option. 
+- Force fake deadlines on yourself with a group of peers. Social accountability is a strong motivator. Accelerates execution
+- Don't focus on making the product perfect or look amazing. Focus on meeting the ICPs "job to be done". My game will never rival GTA 6. It's 2D, the boats look like watermelon seeds.
+- TAM and VC funding can sometimes be overrated. The sailboat racing market is tiny but it's one I know well.
+
+Not everything has to scale. Sometimes it just needs to vibe.

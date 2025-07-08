@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /register
+Allow: /forgot-password
+
+# Disallow private/admin areas
+Disallow: /profile
+Disallow: /profile/*
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://goatsailingrace.com/sitemap.xml
+
+# Crawl-delay (optional - helps prevent overloading)
+Crawl-delay: 1
